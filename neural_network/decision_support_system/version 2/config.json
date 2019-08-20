@@ -1,0 +1,17 @@
+{
+  "telegram": {
+    "token": "623043841:AAF944GARETMr1LFOcu4FMGPjpbF1WPGGSs",
+    "proxy": {
+      "url": "вставить сюда адрес и порт прокси-сервера",
+      "auth": {
+        "username": "вставить сюда логин",
+        "password": "вставить сюда пароль"
+      }
+    }
+  },
+  "password": "nirma",
+  "timeouts": {
+    "detection": 10,
+    "decision": 60
+  }
+}
