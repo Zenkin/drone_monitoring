@@ -1,4 +1,4 @@
-# Simulation PX4 + 3DR Iris + Gazebo
+# Simulation PX4 • 3DR Iris • Gazebo • Blender
 
 Bash script for setting up a ROS/Gazebo development environment for PX4 on Ubuntu LTS (16.04). 
 It installs the common dependencies for all targets (including Qt Creator) and the ROS Kinetic/Gazebo 7 (the default).
