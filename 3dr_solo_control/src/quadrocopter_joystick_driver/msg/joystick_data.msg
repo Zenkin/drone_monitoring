@@ -1,0 +1,14 @@
+Header header
+float64 left_stick_x_axes
+float64 left_stick_y_axes
+float64 right_stick_x_axes
+float64 right_stick_y_axes
+int64 y_button
+int64 a_button
+int64 b_button
+int64 x_button
+float64 RT
+float64 LT
+int64 LB
+int64 RB
+bool is_pushed
